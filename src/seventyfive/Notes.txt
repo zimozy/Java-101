@@ -1,0 +1,34 @@
+polymorphism
+	overriding 
+	overloading
+inner class
+abstract class
+interface
+
+
+Country
+	states
+	...
+		cities
+		...
+		
+You create your own, and this uses the concepts above.
+
+State of being
+	name
+	population
+Behavior
+
+
+Year 2075 - world's end?
+Somewhere not *too* far in the future, society is 
+
+place
+	String	name
+	Int		population
+	
+	state
+		city
+			short	socialists
+			short	liberals
+	
